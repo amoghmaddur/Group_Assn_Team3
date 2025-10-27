@@ -15,7 +15,7 @@ import javax.swing.JPanel;
 
 /**
  *
- * @author ashleshadonde
+ * @author ishajoshi
  */
 public class StudentSignUpJPanel extends javax.swing.JPanel {
 
